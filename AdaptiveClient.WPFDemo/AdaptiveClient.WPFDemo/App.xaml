@@ -1,0 +1,8 @@
+﻿<Application x:Class="AdaptiveClient.WPFDemo.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:AdaptiveClient.WPFDemo" Startup="Application_Start">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
